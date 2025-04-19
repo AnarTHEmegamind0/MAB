@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-multipart
+sqlalchemy[asyncio]
+asyncpg
+pydantic
+# python-multipart
+# python-dotenv
+# bcrypt
+# passlib
+# python-jose
+# email-validator
+
+
+# uvicorn main:app --reload
+# npm run dev
